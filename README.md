@@ -10,7 +10,7 @@
 * 主要使用C++
 * 值得一看的議題有[`大數運算`](https://github.com/penguin72487/zero-judge-practice/tree/master/%E5%A4%A7%E6%95%B8%E9%81%8B%E7%AE%97) [`最小生成樹`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/f678%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A8%B9.cpp) [`笛卡兒樹實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp)
 
-### penguin72487bot
+### penguin72487bot 已隱藏
 * 為了讓line聊天室更加有趣而寫
 * 使用Python串接heroku實現
 
