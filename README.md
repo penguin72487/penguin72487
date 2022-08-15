@@ -4,6 +4,7 @@
 主要練習的網站就是高中生程式解題系統 [zerojudge](https://zerojudge.tw/)
 有時候會寫TOI線上練習賽，2021/3月拿到新手組滿分，~~結果四月在潛力組被電爆~~。
 我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我的代碼。~~大部分新手要用的代碼都在`zero-judge-practice/zerojudge/水題`那個資料夾~~
+最近(2022/8/15) 在寫網頁[HoeingTeyvat](github.com/penguin72487/HoeingTeyvat)，為了鋤大地方便，html跟CSS學半殘，正在學後端Node.js
 ## 歡迎來看
 ### zero-judge-practice
 * 所有練習題目的程式
