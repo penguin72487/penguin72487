@@ -1,7 +1,9 @@
 # 歡迎企鵝的github
-我是錢昱名，目前(2021/11/5)就讀明倫高中三年級，習慣用企鵝這個暱稱，這裡是幾乎從高二使用github後快一年的我所有寫過的程式。
+我是錢昱名，目前(2023/3/4)就讀國立高雄大學大一，習慣用企鵝這個暱稱，這裡是幾乎從高二使用github後快一年的我所有寫過的程式。
 主要寫C++與Python。
-主要練習的網站就是高中生程式解題系統 [zerojudge](https://zerojudge.tw/)
+主要練習的網站有 [zerojudge](https://zerojudge.tw/) [codeforce](https://codeforces.com/)[cses](https://cses.fi/)[UVA
+](https://onlinejudge.org/index.php)
+
 有時候會寫TOI線上練習賽，2021/3月拿到新手組滿分，~~結果四月在潛力組被電爆~~。
 我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我的代碼。~~大部分新手要用的代碼都在`zero-judge-practice/zerojudge/水題`那個資料夾~~
 最近(2022/8/15) 在寫網頁[HoeingTeyvat](github.com/penguin72487/HoeingTeyvat)，為了鋤大地方便，html跟CSS學半殘，正在學後端Node.js
@@ -9,7 +11,8 @@
 ### zero-judge-practice
 * 所有練習題目的程式
 * 主要使用C++
-* 值得一看的議題有[`大數運算`](https://github.com/penguin72487/zero-judge-practice/tree/master/%E5%A4%A7%E6%95%B8%E9%81%8B%E7%AE%97) [`最小生成樹`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/f678%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A8%B9.cpp) [`笛卡兒樹實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp)
+* 值得一看的議題有[`快速傅立葉變換大數乘法`](https://github.com/penguin72487/zero-judge-practice/blob/master/penguinLibrary/bignum/fft_Bignumber.cpp) [`Bellman ford`](https://github.com/penguin72487/zero-judge-practice/blob/master/graph/task1673BellmanOpti.cpp) [`笛卡兒樹應用實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp) [treap+lazy tag](https://github.com/penguin72487/zero-judge-practice/blob/master/cses/task1735treapLazytag.cpp)
+*
 
 ### penguin72487bot 已隱藏
 * 為了讓line聊天室更加有趣而寫
@@ -38,10 +41,15 @@
 ## 編譯器使用
 有碰過devC++、Code::Blocks與VScode
 原本用的編譯器是陽春的dev C++，因為寫的東西真的越來越複雜了，為了debugger與用python寫linebot到高三才轉到VScode，而且支援多語言，介面比Code::Blocks好看。
+2023/3/4 為了開發有手機app、用至solidity寫智能合約還有用android studio以及remix
 # 抒發心情的QA
 ## 企鵝怎麼入坑寫程式的?
-我入坑寫程式是從小就開始有興趣了，原本是看那些駭客很帥，還有'ˇ大想弄自動駕駛的車車，結果聽到BMW再慢慢實現自動駕駛技術，之後比較火的技術是大數據分析時代，然後AI人工智慧時代，殺出一個馬斯克把電動車與自動駕駛成功商業化了。等等這一切發生的好突然。
-寫了這麼多程式，最後發現我對資料結構、演算法與人工智慧比較有興趣，資安當駭客的部分就比較沒涉略，可能以後學寫網頁，建私人服務器就需要了解一些。
+我之前一直在想，我真的喜歡寫程式嗎？我最近(2023/3/4)才想明白我為什麼喜歡寫程式，因為這是一個解決問題的一個好工具，我真正喜歡的是各種思考問題的解決方法，然後獲得答案或是解決後的成就感只是剛好寫程式可以滿足所有需求而已，所以我喜歡寫程式
+
+我入坑寫程式是從小就開始有興趣了，原本是看那些駭客很帥，還有想弄自動駕駛的車車，結果聽到BMW在慢慢實現自動駕駛技術，之後比較火的技術是大數據分析時代，然後AI人工智慧時代，殺出一個馬斯克把電動車與自動駕駛成功商業化了。等等這一切發生的好突然。
+然後上高中，加入程式設計社團，才真正入門寫程式，寫C++。
+寫了這麼多程式，最後發現我對資料結構、演算法與人工智慧比較有興趣，資安當駭客的部分就比較沒涉略，可能以後學寫網頁，建私人服務器就需要了解一些。(2021/11/5)
+最近(2023/3/4)從去年開始專注加密貨幣，看過Luna崩潰FTX倒閉，在FTX倒閉後開始投資超底加密貨幣，對於加密貨幣以及密碼學、零知識證明、資安、世界金融有興趣，說白了還是算法。
 ##  走資工這種東西進去就出不來了，有想清楚嗎?有後悔嗎?
 ![](https://cdn.discordapp.com/attachments/510729837464518660/893442665859928074/FB_IMG_1633083770386.jpg)
 有想過，沒有後悔，因為我的志向很清楚，我就是喜歡寫程式，鑽研演算法之類的，了解科技新趨勢，新技術，尤其是最近終於開始可以在夢裡面研究算法、寫數學了，在裡面非常快樂，擁有無限的計算空間與極快的手速，還有不用計代價的沙盤推演。雖然有人說這是甚麼噩夢，但是身為喜愛這個事物的人，感覺像是置身天堂
