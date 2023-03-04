@@ -11,7 +11,7 @@
 ### zero-judge-practice
 * 所有練習題目的程式
 * 主要使用C++
-* 值得一看的議題有[`快速傅立葉變換大數乘法`](https://github.com/penguin72487/zero-judge-practice/blob/master/penguinLibrary/bignum/fft_Bignumber.cpp) [`Bellman ford`](https://github.com/penguin72487/zero-judge-practice/blob/master/graph/task1673BellmanOpti.cpp) [`笛卡兒樹應用實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp) [treap+lazy tag](https://github.com/penguin72487/zero-judge-practice/blob/master/cses/task1735treapLazytag.cpp)
+* 值得一看的議題有[`快速傅立葉變換大數乘法`](https://github.com/penguin72487/zero-judge-practice/blob/master/penguinLibrary/bignum/fft_Bignumber.cpp) [`Bellman ford`](https://github.com/penguin72487/zero-judge-practice/blob/master/graph/task1673BellmanOpti.cpp) [`笛卡兒樹應用實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp) [‵treap+lazy tag‵](https://github.com/penguin72487/zero-judge-practice/blob/master/cses/task1735treapLazytag.cpp)
 *
 
 ### penguin72487bot 已隱藏
