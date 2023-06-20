@@ -1,6 +1,6 @@
 # 歡迎企鵝的github
-我是錢昱名，目前(2023/3/4)就讀國立高雄大學大一，習慣用企鵝這個暱稱，這裡是幾乎從高二使用github後快一年的我所有寫過的程式。
-主要寫C++與Python。
+我是錢昱名，目前(2023/6/20)就讀國立高雄大學資工系升大二，習慣用企鵝這個暱稱，這裡是幾乎從高二使用github後我所有寫過的程式。
+主要寫C++與Solidity。
 主要練習的網站有 [zerojudge](https://zerojudge.tw/) [codeforce](https://codeforces.com/)[cses](https://cses.fi/)[UVA
 ](https://onlinejudge.org/index.php)
 
