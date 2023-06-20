@@ -7,14 +7,13 @@
 [leetcode](https://leetcode.com/)  
 [UVA](https://onlinejudge.org/index.php)
 
-有時候會寫TOI線上練習賽，2021/3月拿到新手組滿分，~~結果四月在潛力組被電爆~~。
-我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我的代碼。~~大部分新手要用的代碼都在`zero-judge-practice/zerojudge/水題`那個資料夾~~
-最近(2022/8/15) 在寫網頁[HoeingTeyvat](github.com/penguin72487/HoeingTeyvat)，為了鋤大地方便，html跟CSS學半殘，正在學後端Node.js
+我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我的代碼。~~大部分新手要用的代碼都在`programing/zerojudge/水題`那個資料夾~~
+
 ## 歡迎來看
 ### programing
 * 所有練習題目的程式
 * 主要使用C++
-* 值得一看的議題有[`快速傅立葉變換大數乘法`](https://github.com/penguin72487/zero-judge-practice/blob/master/penguinLibrary/bignum/fft_Bignumber.cpp) [`Bellman ford`](https://github.com/penguin72487/zero-judge-practice/blob/master/graph/task1673BellmanOpti.cpp) [`笛卡兒樹應用實作`](https://github.com/penguin72487/zero-judge-practice/blob/master/vs-code/g277DCtree.cpp) [`treap+lazy tag`](https://github.com/penguin72487/zero-judge-practice/blob/master/cses/task1735treapLazytag.cpp)
+* 值得一看的議題有[`快速傅立葉變換大數乘法`](https://github.com/penguin72487/programing/blob/master/penguinLibrary/bignum/fft_Bignumber.cpp) [`Bellman ford`](https://github.com/penguin72487/programing/blob/master/graph/task1673BellmanOpti.cpp) [`笛卡兒樹應用實作`](https://github.com/penguin72487/programing/blob/master/vs-code/g277DCtree.cpp) [`treap+lazy tag`](https://github.com/penguin72487/programing/blob/master/cses/task1735treapLazytag.cpp)
 *
 
 ### penguin72487bot 已隱藏
@@ -41,6 +40,7 @@
 * 110/11—台北市政府教育局 台北市資訊學科能力競賽
 * 110/11— 國立臺灣大學 網際網路程式設計全國大賽(NPSC) 初賽
 * 111/12—大學程式能力檢定委員會 CPE程式檢定三題
+* 112/03-第 5 期 Solidity 工程師實戰營
 
 ## 編譯器使用
 有碰過devC++、Code::Blocks與VScode
