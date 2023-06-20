@@ -7,7 +7,7 @@
 [leetcode](https://leetcode.com/)  
 [UVA](https://onlinejudge.org/index.php)
 
-我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我的代碼。~~大部分新手要用的代碼都在`programing/zerojudge/水題`那個資料夾~~
+我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我在新手時期寫了甚麼。~~大部分新手要用的代碼都在`programing/zerojudge/水題`那個資料夾~~
 
 ## 歡迎來看
 ### programing
