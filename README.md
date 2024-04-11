@@ -8,7 +8,7 @@
 [UVA](https://onlinejudge.org/index.php)
 
 我的zj[統計資料](https://zerojudge.tw/UserStatistic?id=105222)寫不出來可以來參考我在新手時期寫了甚麼。~~大部分新手要用的代碼都在`programing/zerojudge/水題`那個資料夾~~
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Roboto%20Slab&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/user7056JJ?theme=light&font=Roboto%20Slab&ext=activity)
 ## 歡迎來看
 ### programing
 * 所有練習題目的程式
